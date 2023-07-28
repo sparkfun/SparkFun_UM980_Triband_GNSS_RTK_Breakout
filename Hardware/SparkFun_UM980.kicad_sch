@@ -6274,6 +6274,15 @@
     (uuid 042d56c2-00b0-4b8c-9d2b-d16c6acacb4d)
   )
 
+  (label "D+" (at 52.0636 41.91 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid c2a9848b-05fc-4255-96b9-d8eb36426a8e)
+  )
+  (label "D-" (at 52.07 44.45 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid ea71918c-6c96-4ce8-9fe1-75e3c5b5253f)
+  )
+
   (global_label "RXD3" (shape input) (at 252.73 53.34 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 093302d3-9cdb-44d5-837c-e134c423309a)
