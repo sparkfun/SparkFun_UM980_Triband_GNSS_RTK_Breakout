@@ -4,6 +4,13 @@
 
   (paper "USLetter")
 
+  (title_block
+    (title "UM980 Triband GNSS Receiver Breakout")
+    (date "2023-07-28")
+    (rev "v10")
+    (comment 1 "Designed by: N.Seidle")
+  )
+
   (lib_symbols
     (symbol "SparkFun-Aesthetic:Fiducial_0.5" (in_bom yes) (on_board yes)
       (property "Reference" "FID" (at 0 2.54 0)
@@ -6269,9 +6276,9 @@
     (uuid ffca8776-79c3-4b79-945c-70df3e89d803)
   )
 
-  (text "v10" (at 250.411 200.1093 0)
+  (text "Add PSED to GPIO" (at 34.29 124.46 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 042d56c2-00b0-4b8c-9d2b-d16c6acacb4d)
+    (uuid 0d98b4ef-91bd-41d7-9a6e-f89d027f948a)
   )
 
   (label "D+" (at 52.0636 41.91 0) (fields_autoplaced)
@@ -6737,7 +6744,7 @@
   )
 
   (symbol (lib_id "SparkFun-Aesthetic:SparkFun_Logo") (at 194.31 167.64 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board no) (dnp no) (fields_autoplaced)
     (uuid 1f71d36e-2564-4a65-a00f-3b68769ddaf6)
     (property "Reference" "G5" (at 194.31 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -6803,22 +6810,22 @@
     (property "PROD_ID" "IC-1234" (at 92.71 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c5310e8e-347c-4906-b4d5-5debdef431db))
-    (pin "10" (uuid a9a8b04a-db86-42cc-9297-d9d199aab1e3))
-    (pin "11" (uuid fe5fadc1-6062-4c19-95d4-16c6fdf13010))
-    (pin "12" (uuid 9a064993-f796-427a-9c7f-98499db5e80b))
-    (pin "13" (uuid bdb329a8-0a85-4d05-9108-c0e12007e384))
-    (pin "14" (uuid add23eb7-58b6-4694-a850-9591b34bb3ea))
-    (pin "15" (uuid 4ce8949d-f7d7-4ec5-8f41-9d9fa94361b3))
-    (pin "16" (uuid c7c04375-b00b-4610-b29e-e05fea065ebf))
-    (pin "2" (uuid 0177e5d3-a86f-4130-8fcd-793b7b61dab3))
-    (pin "3" (uuid 04c740f0-5925-444e-ba7e-2479e4a9a849))
-    (pin "4" (uuid 9b98d5aa-56ae-4c3a-8189-6505ea60a291))
-    (pin "5" (uuid 654a195a-48e3-4096-8636-1a0664d28808))
-    (pin "6" (uuid f0edf74b-540f-42cd-8311-ab5d44c0b054))
-    (pin "7" (uuid 4ee83fc6-669a-438b-a11a-e2930ba473ec))
-    (pin "8" (uuid cd7a8847-9f19-4349-91c2-b379ed9d578d))
-    (pin "9" (uuid 760e5580-4a52-42d9-8b8b-945ddd213906))
+    (pin "1" (uuid 24cf48f0-2667-4424-a3df-29da16bfad99))
+    (pin "10" (uuid e19b0387-0e05-41f1-a10a-512ae8fd0ec9))
+    (pin "11" (uuid cb249ab9-63c7-4c95-8b52-141faae299cb))
+    (pin "12" (uuid cca53108-b785-4f14-b5b4-77e3c715ce74))
+    (pin "13" (uuid 2b98cf53-2639-4225-8e72-5e7f81309b16))
+    (pin "14" (uuid 50d6c6f1-6808-4cc5-82d1-ee899d9dd016))
+    (pin "15" (uuid 7902fb8d-53fe-40f2-8415-6d86937465de))
+    (pin "16" (uuid 9646c35b-82bb-445f-80e3-21174777176b))
+    (pin "2" (uuid e0b28d42-48ff-4fa1-9061-7dfe3ac26872))
+    (pin "3" (uuid 5f53f1ca-e3e4-4656-97c1-bcba486110aa))
+    (pin "4" (uuid be027e4b-307d-48e7-b600-8aa26c83d9ee))
+    (pin "5" (uuid a02393cc-5abc-4d5a-bf52-3cdc13fd9db9))
+    (pin "6" (uuid db01f9f2-ea65-4c72-ae60-b3c9a4aa3718))
+    (pin "7" (uuid 786af87c-27c1-42d8-a61b-b5c44ac33bec))
+    (pin "8" (uuid 0ca5a20d-6fa1-49a7-86fa-75432828ca9b))
+    (pin "9" (uuid bd180610-fbb4-4f67-88bf-956eb64bc307))
     (instances
       (project "SparkFun_UM980"
         (path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
@@ -7718,12 +7725,12 @@
     (property "PROD_ID" "" (at 71.12 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 39cd183b-1b4a-48f6-8050-7228c26df670))
-    (pin "2" (uuid ca288ea6-4618-424c-8e0c-51c40b73f5a9))
-    (pin "3" (uuid fa9de51a-2a01-4a63-89b4-fc383a87841e))
-    (pin "4" (uuid 13852fc8-2ed4-4e78-95c3-6029aa03901e))
-    (pin "5" (uuid ab488b8e-ec7f-4609-9ea7-1e4ca0f54d09))
-    (pin "6" (uuid de41da08-f593-4575-97b6-2bd9d5dbf48f))
+    (pin "1" (uuid 7373ba71-990e-40b3-93f5-d0b4ceb79e8d))
+    (pin "2" (uuid 1df863cb-99d9-41ea-a958-5dcc6adb74c8))
+    (pin "3" (uuid 6c669363-118c-4cbe-bc82-80a7b013dffa))
+    (pin "4" (uuid 5d2bae75-490e-44c2-bca9-ed7d2e17f290))
+    (pin "5" (uuid 942689d5-ffbe-4b8c-8908-cd9e431836ec))
+    (pin "6" (uuid d9a1b47d-2570-43fd-a96c-6f29e0a9f6c6))
     (instances
       (project "SparkFun_UM980"
         (path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
@@ -8127,7 +8134,7 @@
   )
 
   (symbol (lib_id "SparkFun-Aesthetic:SparkFun_Logo") (at 194.31 167.64 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board no) (dnp no) (fields_autoplaced)
     (uuid b2decde1-62d4-4670-a064-d07726e72b30)
     (property "Reference" "G3" (at 194.31 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -8135,7 +8142,7 @@
     (property "Value" "SparkFun_Logo" (at 194.31 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "SparkFun-Aesthetic:SparkFun_Logo_8mm" (at 198.123 163.8412 0)
+    (property "Footprint" "" (at 198.123 163.8412 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 198.123 163.8412 0)
