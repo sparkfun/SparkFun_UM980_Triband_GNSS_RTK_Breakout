@@ -1,12 +1,10 @@
 {
   "board": {
     "active_layer": 31,
-    "active_layer_preset": "All Layers",
+    "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
-    "hidden_nets": [
-      "GND"
-    ],
+    "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -14,7 +12,7 @@
       "pads": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
-      "zones": 0.6
+      "zones": 0.6200000047683716
     },
     "selection_filter": {
       "dimensions": true,
@@ -73,31 +71,6 @@
     "version": 3
   },
   "project": {
-    "files": [
-      {
-        "name": "SparkFun_UM980.kicad_sch",
-        "open": true,
-        "window": {
-          "display": 1,
-          "maximized": true,
-          "pos_x": -8,
-          "pos_y": -8,
-          "size_x": 1936,
-          "size_y": 1056
-        }
-      },
-      {
-        "name": "SparkFun_UM980.kicad_pcb",
-        "open": true,
-        "window": {
-          "display": 1,
-          "maximized": true,
-          "pos_x": -8,
-          "pos_y": -8,
-          "size_x": 1936,
-          "size_y": 1056
-        }
-      }
-    ]
+    "files": []
   }
 }
