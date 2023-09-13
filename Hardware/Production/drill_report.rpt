@@ -1,0 +1,30 @@
+Drill report for SparkFun_GNSS_UM980_panelized.kicad_pcb
+Created on 9/13/2023 2:16:39 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  In1.Cu                    in1
+    L3 :  In2.Cu                    in2
+    L4 :  B.Cu                      back
+
+
+Drill file 'SparkFun_GNSS_UM980_panelized.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.305mm  0.0120"  (564 holes)
+    T2  0.400mm  0.0157"  (4 holes)
+    T3  0.600mm  0.0236"  (16 holes)  (with 16 slots)
+    T4  0.950mm  0.0374"  (8 holes)
+    T5  1.016mm  0.0400"  (68 holes)
+
+    Total plated holes count 660
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+    T6  0.650mm  0.0256"  (8 holes)
+    T7  3.302mm  0.1300"  (16 holes)
+
+    Total unplated holes count 24
