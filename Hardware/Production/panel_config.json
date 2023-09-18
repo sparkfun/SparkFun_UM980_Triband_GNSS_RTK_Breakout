@@ -9,6 +9,6 @@
   "gapsHorizontalCtrl": "0.0",
   "removeRightVerticalCheck": true,
   "productionBordersCheck": true,
-  "productionFiducialsCheck": true,
+  "productionFiducialsCheck": false,
   "productionExposeCheck": false
 }

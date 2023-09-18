@@ -249,17 +249,17 @@
         )
       )
     )
-    (symbol "SparkFun-Jumper:SolderJumper_3_Bridged12" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (symbol "SparkFun-Jumper:SolderJumper_3_Bridged12" (pin_numbers hide) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
       (property "Reference" "JP" (at -2.54 -2.54 0)
         (effects (font (size 1.27 1.27)))
       )
-      (property "Value" "" (at 0 2.794 0)
-        (effects (font (size 1.27 1.27)) hide)
+      (property "Value" "~" (at 0 2.794 0)
+        (effects (font (size 1.27 1.27)))
       )
       (property "Footprint" "SparkFun-Jumper:SMT-JUMPER_3_1-NC_TRACE_SILK" (at 0 -5.08 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "Datasheet" "~" (at 0 0 0)
+      (property "Datasheet" "~" (at 0 -7.62 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "ki_keywords" "Solder Jumper SPDT" (at 0 0 0)
@@ -630,10 +630,10 @@
     (property "Current" "200mA" (at 80.01 95.25 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (pin "1" (uuid 924a96d1-caeb-49e4-9260-9ba4a1f7b41b))
-    (pin "2" (uuid 29777edd-9813-4479-9d1c-2671f009812b))
+    (pin "1" (uuid 85f7521a-7033-4578-962e-00ae127c5c59))
+    (pin "2" (uuid 10e7f25c-2e75-4cb5-8ec4-b6a675a7faea))
     (instances
-      (project "SparkFun_UM980_panelized"
+      (project "SparkFun_GNSS_UM980"
         (path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/4d8e7a61-3b13-4db6-8f5b-1b3bc0074024"
           (reference "L1") (unit 1)
         )
@@ -656,9 +656,9 @@
     (property "Datasheet" "" (at 58.42 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid acc56238-d52c-45fa-9f15-d118b2fb3e97))
+    (pin "1" (uuid 25964ceb-e871-4ab8-9fbe-9840aee6b70d))
     (instances
-      (project "SparkFun_UM980_panelized"
+      (project "SparkFun_GNSS_UM980"
         (path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
           (reference "#PWR031") (unit 1)
         )
@@ -693,10 +693,10 @@
     (property "Tolerance" "+80%/-20%" (at 66.04 114.3 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (pin "1" (uuid a3701d06-8987-4a1f-89c4-b57e02204507))
-    (pin "2" (uuid 94810267-a8bc-4883-8842-e5dd811c2e60))
+    (pin "1" (uuid 123cc8df-e889-43f0-bc16-060f7c952beb))
+    (pin "2" (uuid 4499dc12-946c-43dd-b355-dc931bf47426))
     (instances
-      (project "SparkFun_UM980_panelized"
+      (project "SparkFun_GNSS_UM980"
         (path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/4d8e7a61-3b13-4db6-8f5b-1b3bc0074024"
           (reference "C4") (unit 1)
         )
@@ -719,9 +719,9 @@
     (property "Datasheet" "" (at 62.23 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 58d9e7ac-9feb-41c9-9a46-6224914feb76))
+    (pin "1" (uuid d3d0aac1-4905-4285-be7f-3bf8aebd39d8))
     (instances
-      (project "SparkFun_UM980_panelized"
+      (project "SparkFun_GNSS_UM980"
         (path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
           (reference "#PWR032") (unit 1)
         )
@@ -747,9 +747,9 @@
     (property "Datasheet" "" (at 78.74 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6bfb4a02-c2b7-4e82-b3c9-eec36c073822))
+    (pin "1" (uuid 6be7a868-8956-4bba-a805-829366ed7cc9))
     (instances
-      (project "SparkFun_UM980_panelized"
+      (project "SparkFun_GNSS_UM980"
         (path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
           (reference "#PWR033") (unit 1)
         )
@@ -778,10 +778,10 @@
     (property "PROD_ID" "DIO-15359" (at 70.612 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b26d175e-1d8f-4060-bf6c-1e6f729da414))
-    (pin "2" (uuid 1971a3da-1ed0-4289-8e6c-cab5391a479e))
+    (pin "1" (uuid 11b63a2d-2200-4f73-9fa9-e86ef3f40194))
+    (pin "2" (uuid 8a4c6b2d-bfd5-4baa-beb4-25de42a1b39f))
     (instances
-      (project "SparkFun_UM980_panelized"
+      (project "SparkFun_GNSS_UM980"
         (path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/4d8e7a61-3b13-4db6-8f5b-1b3bc0074024"
           (reference "D6") (unit 1)
         )
@@ -804,9 +804,9 @@
     (property "Datasheet" "" (at 64.77 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bf167983-9e9c-4991-abfa-940f770dec0a))
+    (pin "1" (uuid 81515f50-a15d-484b-9bf7-7d92783c8ef2))
     (instances
-      (project "SparkFun_UM980_panelized"
+      (project "SparkFun_GNSS_UM980"
         (path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
           (reference "#PWR030") (unit 1)
         )
@@ -832,11 +832,11 @@
     (property "Datasheet" "~" (at 96.52 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ffbadc3e-df35-472c-9f6e-5511590981ba))
-    (pin "2" (uuid c7eda91a-0cfd-465f-b528-c2fb5f7f4d0a))
-    (pin "3" (uuid 0dae4069-f90b-420a-bfaa-fbe2f1b314de))
+    (pin "1" (uuid d3876c9a-3197-4e21-a9b7-3ff172c85303))
+    (pin "2" (uuid 5d9fb5d4-b441-4a6d-b11e-e6e4b4a36598))
+    (pin "3" (uuid f9bd1793-2ad1-47d2-9af9-0f1e717301c3))
     (instances
-      (project "SparkFun_UM980_panelized"
+      (project "SparkFun_GNSS_UM980"
         (path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/4d8e7a61-3b13-4db6-8f5b-1b3bc0074024"
           (reference "JP1") (unit 1)
         )
@@ -868,10 +868,10 @@
     (property "Tolerance" "10%" (at 83.82 82.55 90)
       (effects (font (size 1.27 1.27)))
     )
-    (pin "1" (uuid 0d8f38e9-2bb4-4b08-a61c-97f357e67999))
-    (pin "2" (uuid 261b89b3-ba5b-4ab9-b93c-f14cf714747c))
+    (pin "1" (uuid 03322711-0011-44e6-af56-ec3c6865c3a2))
+    (pin "2" (uuid 0475819a-aaab-4ea6-8bdb-62e724b64dfd))
     (instances
-      (project "SparkFun_UM980_panelized"
+      (project "SparkFun_GNSS_UM980"
         (path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/4d8e7a61-3b13-4db6-8f5b-1b3bc0074024"
           (reference "C7") (unit 1)
         )
@@ -897,13 +897,13 @@
     (property "PROD_ID" "CONN-08289" (at 58.42 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d6084064-1245-46ca-a582-48c9fb106850))
-    (pin "2" (uuid cff9456c-1f3b-4aea-9a94-06f0634a2faa))
-    (pin "3" (uuid 9a5658c2-cb9b-4094-bdcf-26f52415e52a))
-    (pin "4" (uuid b6b1b5a9-2679-476c-99bd-be91df9fb757))
-    (pin "SIG" (uuid 418dd83b-e9a8-43d3-add4-117873670d14))
+    (pin "1" (uuid ccf7df9d-43c8-4c05-bdee-3f8eb5888566))
+    (pin "2" (uuid 051ea2b0-4240-4622-abc4-49b55f40e53b))
+    (pin "3" (uuid d4d959c2-84bd-4129-b39f-55ab2b07843c))
+    (pin "4" (uuid 11f440b1-305e-4632-b1ee-5153537cdf90))
+    (pin "SIG" (uuid 8f59bf70-d312-42e7-8ca9-0ee0bc79e57d))
     (instances
-      (project "SparkFun_UM980_panelized"
+      (project "SparkFun_GNSS_UM980"
         (path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/4d8e7a61-3b13-4db6-8f5b-1b3bc0074024"
           (reference "J5") (unit 1)
         )
@@ -935,10 +935,10 @@
     (property "Tolerance" "10%" (at 82.55 114.3 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (pin "1" (uuid 498a344c-7b0b-420e-ac4e-32319df30663))
-    (pin "2" (uuid 33aa8171-e163-4e0b-991f-8495f6278494))
+    (pin "1" (uuid 92d2d2c7-c462-4eda-aa9d-c0540c97e2a5))
+    (pin "2" (uuid 6ae04259-d778-476f-bfa9-6db6d4d38ad0))
     (instances
-      (project "SparkFun_UM980_panelized"
+      (project "SparkFun_GNSS_UM980"
         (path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/4d8e7a61-3b13-4db6-8f5b-1b3bc0074024"
           (reference "C6") (unit 1)
         )

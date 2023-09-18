@@ -1,19 +1,30 @@
-2023-09-13 14:16:38,855 - cammer_logger - INFO - Running CAMmer
-2023-09-13 14:16:38,856 - cammer_logger - INFO - ['-l', 'F.Cu,In1.Cu,In2.Cu,B.Cu,F.Paste,B.Paste,F.Silkscreen,B.Silkscreen,F.Mask,B.Mask', '-e', 'Edge.Cuts,User.Comments']
-2023-09-13 14:16:38,856 - cammer_logger - INFO - CAMMER START: 2023-09-13T14:16:38.856647
-2023-09-13 14:16:39,538 - cammer_logger - INFO - 
-START: 2023-09-13T14:16:38.856647
-Renaming C:\Users\Studio\Dropbox\Projects\SparkFun_GNSS_UM980\Hardware\Production\SparkFun_GNSS_UM980_panelized-F_Cu.gbr to C:\Users\Studio\Dropbox\Projects\SparkFun_GNSS_UM980\Hardware\Production\SparkFun_GNSS_UM980_panelized.GTL
-Renaming C:\Users\Studio\Dropbox\Projects\SparkFun_GNSS_UM980\Hardware\Production\SparkFun_GNSS_UM980_panelized-In1_Cu.gbr to C:\Users\Studio\Dropbox\Projects\SparkFun_GNSS_UM980\Hardware\Production\SparkFun_GNSS_UM980_panelized.GL1
-Renaming C:\Users\Studio\Dropbox\Projects\SparkFun_GNSS_UM980\Hardware\Production\SparkFun_GNSS_UM980_panelized-In2_Cu.gbr to C:\Users\Studio\Dropbox\Projects\SparkFun_GNSS_UM980\Hardware\Production\SparkFun_GNSS_UM980_panelized.GL2
-Renaming C:\Users\Studio\Dropbox\Projects\SparkFun_GNSS_UM980\Hardware\Production\SparkFun_GNSS_UM980_panelized-B_Cu.gbr to C:\Users\Studio\Dropbox\Projects\SparkFun_GNSS_UM980\Hardware\Production\SparkFun_GNSS_UM980_panelized.GBL
-Renaming C:\Users\Studio\Dropbox\Projects\SparkFun_GNSS_UM980\Hardware\Production\SparkFun_GNSS_UM980_panelized-F_Paste.gbr to C:\Users\Studio\Dropbox\Projects\SparkFun_GNSS_UM980\Hardware\Production\SparkFun_GNSS_UM980_panelized.GTP
-Renaming C:\Users\Studio\Dropbox\Projects\SparkFun_GNSS_UM980\Hardware\Production\SparkFun_GNSS_UM980_panelized-B_Paste.gbr to C:\Users\Studio\Dropbox\Projects\SparkFun_GNSS_UM980\Hardware\Production\SparkFun_GNSS_UM980_panelized.GBP
-Renaming C:\Users\Studio\Dropbox\Projects\SparkFun_GNSS_UM980\Hardware\Production\SparkFun_GNSS_UM980_panelized-F_Silkscreen.gbr to C:\Users\Studio\Dropbox\Projects\SparkFun_GNSS_UM980\Hardware\Production\SparkFun_GNSS_UM980_panelized.GTO
-Renaming C:\Users\Studio\Dropbox\Projects\SparkFun_GNSS_UM980\Hardware\Production\SparkFun_GNSS_UM980_panelized-B_Silkscreen.gbr to C:\Users\Studio\Dropbox\Projects\SparkFun_GNSS_UM980\Hardware\Production\SparkFun_GNSS_UM980_panelized.GBO
-Renaming C:\Users\Studio\Dropbox\Projects\SparkFun_GNSS_UM980\Hardware\Production\SparkFun_GNSS_UM980_panelized-F_Mask.gbr to C:\Users\Studio\Dropbox\Projects\SparkFun_GNSS_UM980\Hardware\Production\SparkFun_GNSS_UM980_panelized.GTS
-Renaming C:\Users\Studio\Dropbox\Projects\SparkFun_GNSS_UM980\Hardware\Production\SparkFun_GNSS_UM980_panelized-B_Mask.gbr to C:\Users\Studio\Dropbox\Projects\SparkFun_GNSS_UM980\Hardware\Production\SparkFun_GNSS_UM980_panelized.GBS
-Renaming C:\Users\Studio\Dropbox\Projects\SparkFun_GNSS_UM980\Hardware\Production\SparkFun_GNSS_UM980_panelized-Edge_Cuts.gbr to C:\Users\Studio\Dropbox\Projects\SparkFun_GNSS_UM980\Hardware\Production\SparkFun_GNSS_UM980_panelized.GKO
-Drill report: C:\Users\Studio\Dropbox\Projects\SparkFun_GNSS_UM980\Hardware\Production\drill_report.rpt
+2023-09-18 12:37:53,246 - cammer_logger - INFO - Running CAMmer
+2023-09-18 12:37:53,247 - cammer_logger - INFO - ['-l', 'F.Cu,In1.Cu,In2.Cu,B.Cu,F.Paste,B.Paste,F.Silkscreen,B.Silkscreen,F.Mask,B.Mask', '-e', 'Edge.Cuts,User.Comments']
+2023-09-18 12:37:53,247 - cammer_logger - INFO - CAMMER START: 2023-09-18T12:37:53.247347
+2023-09-18 12:37:55,339 - cammer_logger - INFO - 
+START: 2023-09-18T12:37:53.247347
+Deleting existing C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized.GTL
+Renaming C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized-F_Cu.gbr to C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized.GTL
+Deleting existing C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized.GL1
+Renaming C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized-In1_Cu.gbr to C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized.GL1
+Deleting existing C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized.GL2
+Renaming C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized-In2_Cu.gbr to C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized.GL2
+Deleting existing C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized.GBL
+Renaming C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized-B_Cu.gbr to C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized.GBL
+Deleting existing C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized.GTP
+Renaming C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized-F_Paste.gbr to C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized.GTP
+Deleting existing C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized.GBP
+Renaming C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized-B_Paste.gbr to C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized.GBP
+Deleting existing C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized.GTO
+Renaming C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized-F_Silkscreen.gbr to C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized.GTO
+Deleting existing C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized.GBO
+Renaming C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized-B_Silkscreen.gbr to C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized.GBO
+Deleting existing C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized.GTS
+Renaming C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized-F_Mask.gbr to C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized.GTS
+Deleting existing C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized.GBS
+Renaming C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized-B_Mask.gbr to C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized.GBS
+Deleting existing C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized.GKO
+Renaming C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized-Edge_Cuts.gbr to C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware/Production/SparkFun_GNSS_UM980_panelized.GKO
+Drill report: C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_GNSS_UM980\Hardware\Production\drill_report.rpt
 
-2023-09-13 14:16:39,605 - cammer_logger - INFO - CAMmer complete
+2023-09-18 12:37:55,414 - cammer_logger - INFO - CAMmer complete

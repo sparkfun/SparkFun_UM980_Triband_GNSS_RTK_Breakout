@@ -1,11 +1,11 @@
-2023-09-13 14:16:31,923 - panelizer_logger - INFO - Running Panelizer
-2023-09-13 14:16:31,924 - panelizer_logger - INFO - ['--panelx', '127.000000', '--panely', '127.000000', '--smaller', '--gapx', '3.048000', '--gapy', '0.000000', '--norightgap', '--hrail', '6.35', '--vrail', '6.35', '--fiducialslr']
-2023-09-13 14:16:31,926 - panelizer_logger - INFO - PANELIZER START: 2023-09-13T14:16:31.926632
-2023-09-13 14:16:32,413 - panelizer_logger - INFO - 
-START: 2023-09-13T14:16:31.926632
+2023-09-18 12:30:33,502 - panelizer_logger - INFO - Running Panelizer
+2023-09-18 12:30:33,503 - panelizer_logger - INFO - ['--panelx', '127.000000', '--panely', '127.000000', '--smaller', '--gapx', '3.048000', '--gapy', '0.000000', '--norightgap', '--hrail', '6.35', '--vrail', '6.35', '--fiducialstb']
+2023-09-18 12:30:33,505 - panelizer_logger - INFO - PANELIZER START: 2023-09-18T12:30:33.505054
+2023-09-18 12:30:35,471 - panelizer_logger - INFO - 
+START: 2023-09-18T12:30:33.505054
 
-Board: C:/Users/Studio/Dropbox/Projects/SparkFun_GNSS_UM980/Hardware\Production\SparkFun_GNSS_UM980_panelized.kicad_pcb
+Board: C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_GNSS_UM980\Hardware\Production\SparkFun_GNSS_UM980_panelized.kicad_pcb
 Board dimensions: 50.80 x 50.80 mm.
 You can fit 2 x 2 boards on the panel.
 
-2023-09-13 14:16:32,473 - panelizer_logger - INFO - Panelizer complete
+2023-09-18 12:30:35,497 - panelizer_logger - INFO - Panelizer complete
