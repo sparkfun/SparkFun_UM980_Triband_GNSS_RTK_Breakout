@@ -19,7 +19,7 @@ With *33* satellites used in the location solution. -->
 Repository Contents
 -------------------
 
-* **/Documents** - Ublox datasheets and various whitepapers around RTK
+* **/Documents** - Datasheets and various documents related to the UM980
 * **/Hardware** - Eagle files
 
 Documentation
