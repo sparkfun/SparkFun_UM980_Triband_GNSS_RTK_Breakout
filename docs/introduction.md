@@ -22,6 +22,9 @@ The [SparkFun Triband GNSS RTK Breakout features the UM980](https://www.sparkfun
 </div>
 </center>
 
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/hWbBHZmfCb0?si=p-r_aINOr7y-Rpoi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 In this tutorial, we'll go over the hardware and how to hookup the breakout board. We will also go over the Arduino examples to get started.
 
