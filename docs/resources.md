@@ -13,4 +13,4 @@ Now that you've successfully got your SparkFun TriBand GNSS RTK- Breakout - UM98
 * [Qwiic Info Page](https://www.sparkfun.com/qwiic)
 * [Arduino Library](https://github.com/sparkfun/SparkFun_Unicore_GNSS_Arduino_Library)
 * [GitHub Hardware Repo](https://github.com/sparkfun/SparkFun_UM980_Triband_GNSS_RTK_Breakout)
-* [SFE Product Showcase](https://youtu.be/hWbBHZmfCb0?si=PUi5m-QKax2DZeoJ)
+* [SFE Product Showcase](https://www.youtube.com/watch?v=JRmVSYMMBFU)
