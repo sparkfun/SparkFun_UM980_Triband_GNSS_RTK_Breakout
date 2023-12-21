@@ -38,8 +38,7 @@ To follow along with this tutorial, you will need the following materials. You m
 * 1x [Reversible USB A to C Cable - 0.8m [CAB-15425]](https://www.sparkfun.com/products/15425)
 * 1x [Breadboard to JST-GHR-04V Cable - 4-Pin x 1.25mm Pitch [CAB-17240]](https://www.sparkfun.com/products/17240)
 * 1x [SparkFun Triband GNSS RTK Breakout - UM980 [GPS-23286]](https://www.sparkfun.com/products/23286)
-* 1x [Interface Cable - SMA Male to TNC Male (300mm)
- [CAB-17833]](https://www.sparkfun.com/products/17833)
+* 1x [Reinforced Interface Cable - SMA Male to TNC Male (10m) [CAB-21740]](https://www.sparkfun.com/products/21740)
 * 1x [GNSS Multi-Band L1/L2/L5 Surveying Antenna - TNC (SPK6618H) [GPS-21801]](https://www.sparkfun.com/products/21801)
 
 
@@ -102,18 +101,18 @@ To follow along with this tutorial, you will need the following materials. You m
       CAB-17240
     </a>
 <!-- ----------WHITE SPACE BETWEEN PRODUCTS---------- -->
--   <a href="https://www.sparkfun.com/products/21739">
+-   <a href="https://www.sparkfun.com/products/21740">
       <figure markdown>
-        <img src="https://cdn.sparkfun.com//assets/parts/2/1/5/6/9/SparkFun_Reinforced_Interface_Cable_-_SMA_Male_to_TNC_Male_-_4.jpg" style="width:140px; height:140px; object-fit:contain;" alt="Reinforced Interface Cable - SMA Male to TNC Male (300mm)">
+        <img src="https://cdn.sparkfun.com//assets/parts/2/1/5/7/0/SparkFun_Reinforced_Interface_Cable_-_SMA_Male_to_TNC_Male_-_1.jpg" style="width:140px; height:140px; object-fit:contain;" alt="Reinforced Interface Cable - SMA Male to TNC Male (10m)">
       </figure>
     </a>
 
     ---
 
-    <a href="https://www.sparkfun.com/products/21739">
-      <b>Reinforced Interface Cable - SMA Male to TNC Male (300mm)</b>
+    <a href="https://www.sparkfun.com/products/21740">
+      <b>Reinforced Interface Cable - SMA Male to TNC Male (10m)</b>
       <br>
-      CAB-21739
+      CAB-21740
     </a>
 <!-- ----------WHITE SPACE BETWEEN PRODUCTS---------- -->
 -   <a href="https://www.sparkfun.com/products/21801">
