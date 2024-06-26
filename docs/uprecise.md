@@ -21,6 +21,16 @@ After downloading and installing UPrecise, open the software up! There are two l
   </table>
 </div>
 
+For users with UPrecise V2.0, you will be prompted with a new window indicating that you will need reboot the software for the changes to take effect. Select the button on the left to reboot the software.
+
+<div style="text-align: center;">
+  <table>
+    <tr style="vertical-align:middle;">
+     <td style="text-align: center; vertical-align: middle;"><a href="../assets/img/UPrecise_Software_Language_Accept.JPG"><img src="../assets/img/UPrecise_Software_Language_Accept.JPG" width="600px" height="600px" alt="UPrecise Software Reboot, Select OK"></a></td>
+    </tr>
+  </table>
+</div>
+
 The language will switch to English similar to the image below.
 
 <div style="text-align: center;">
@@ -30,6 +40,8 @@ The language will switch to English similar to the image below.
     </tr>
   </table>
 </div>
+
+
 
 
 

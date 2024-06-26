@@ -2,9 +2,9 @@
      The following instructions were taken from the UPrecise User Manual: 2.2.11 Receiver Upgrade. For more information about how to use UPrecise software, make sure to check out the user manual.
 
 !!! note
-    At the time of writing, UPrecise Version 1.0.639 was used. Note that the GUI appearance and features may change upon future releases.
+    At the time of writing, UPrecise Version 2.0 was used. Note that the GUI appearance and features may change upon future releases.
 
-You can update your firmware (they call this a firmware upgrade in the manual) using Unicore's UPrecise software. Make sure to check [Unicore's UM980 product page](https://en.unicorecomm.com/products/detail/26) or [download center](https://en.unicorecomm.com/download) for any firmware releases.
+You can update your firmware (they call this a firmware upgrade in the manual) using Unicore's UPrecise software. Make sure to check [Unicore's UM980 product page](https://en.unicorecomm.com/products/detail/26), [download center](https://en.unicorecomm.com/download), or contact Unicore Communications for any firmware releases.
 
 We'll assume that you have the firmware downloaded at this point and connected to the UM980. With UPrecise open, click on the menu with the triple bar (**&equiv;**) near the upper left of the window to expand the menu.
 
@@ -36,7 +36,7 @@ Click on the **Receiver Upgrade** button. The following window should open up.
   </table>
 </div>
 
-Click the **Select upgrade file** button. Head to the folder where you downloaded the firmware and select the file. The extension should be a  **&#42;pkg** file.
+Click the **Select upgrade file** button. Head to the folder where you downloaded the firmware and select the file. The extension should be a  **&#42;pkg** file.  In this case, there was a copy of the firmware in the [GitHub SparkFun UM980 Triband GNSS RTK Breakout Repo](https://github.com/sparkfun/SparkFun_UM980_Triband_GNSS_RTK_Breakout/tree/main/Firmware) named "_UM980_R4.10Build11833.pkg_". Older firmware versions were moved to the **Old Firmware** folder.
 
 <div style="text-align: center;">
   <table>
@@ -62,7 +62,7 @@ If necessary, you can select the "Double backup" checkbox. Once the module has f
 
 -->
 
-Select the GNSS receiver that will be receiving the firmware update. In this case it was **Receiver1**. While we are at it, select either the "**Soft reset**" or "**Hard reset**". While updating, the module will need to be reset and this selection will determine the reset method. Let's select the "**Soft Reset**" and have Uprecise reset the module.
+Select the GNSS receiver that will be receiving the firmware update. In this case it was **Receiver1**. While we are at it, select either the "**Soft reset**" or "**Hard reset**". While updating, the module will need to be reset and this selection will determine the reset method. Let's select the "**Soft Reset**" and have UPrecise reset the module.
 
 <div style="text-align: center;">
   <table>
@@ -98,12 +98,36 @@ Once the firmware has been updated, you will notice that the progress bar is at 
   </table>
 </div>
 
-Upon exiting, the you can continue viewing the UM980 output through the UPrecise software.
+Upon exiting, you can continue viewing the UM980 output through the UPrecise software.
+
+Not seeing any satellites or output in the serial terminal? Try adjusting the configuraiton. From the menu, head to the following to configure the messages: **Receiver Configurations** > **Message configuration**. In this case, we selected the following: **GGA**, **GSA**, **GSV**, **RMC**, **GST**. Feel free to select more depending on your application.
 
 <div style="text-align: center;">
   <table>
     <tr style="vertical-align:middle;">
-     <td style="text-align: center; vertical-align: middle;"><a href="../assets/img/UPrecise_Software_COM_Port_Connected_RTK_Solution.JPG"><img src="../assets/img/UPrecise_Software_COM_Port_Connected_RTK_Solution.JPG" width="600px" height="600px" alt="UPrecise Software with UM980 Outputting Data"></a></td>
+     <td style="text-align: center; vertical-align: middle;"><a href="../assets/img/UPrecise_Software_Receiver_Configurations.JPG"><img src="../assets/img/UPrecise_Software_Receiver_Configurations.JPG" width="600px" height="600px" alt="UPrecise Software: Receiver Configurations - Message configuration"></a></td>
+    </tr>
+  </table>
+</div>
+
+
+
+Scroll down **Receiver Configurations** window and select **Enter** button.
+
+<div style="text-align: center;">
+  <table>
+    <tr style="vertical-align:middle;">
+     <td style="text-align: center; vertical-align: middle;"><a href="../assets/img/UPrecise_Software_Receiver_Configurations_Send.JPG"><img src="../assets/img/UPrecise_Software_Receiver_Configurations_Send.JPG" width="600px" height="600px" alt="UPrecise Software: Receiver Configurations - Message configuration, Enter"></a></td>
+    </tr>
+  </table>
+</div>
+
+You should be able to see messages outputting through the serial terminal and displaying graphically.
+
+<div style="text-align: center;">
+  <table>
+    <tr style="vertical-align:middle;">
+     <td style="text-align: center; vertical-align: middle;"><a href="../assets/img/UPrecise_Software_UM980_Connected_Quality_Single_Point_Positioning.JPG"><img src="../assets/img/UPrecise_Software_UM980_Connected_Quality_Single_Point_Positioning.JPG" width="600px" height="600px" alt="UPrecise Software with UM980 Outputting Messages with Data Single Point Positioning"></a></td>
     </tr>
   </table>
 </div>
