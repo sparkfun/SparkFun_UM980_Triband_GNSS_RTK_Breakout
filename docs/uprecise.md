@@ -1,9 +1,9 @@
 For users interested in the a GUI to visualize the data, there is the UPrecise Software. You can head over to [Unicore's product page for the UM980 and select the "Data Manual" tab](https://en.unicorecomm.com/products/detail/26). Or clicking on the button below to download UPrecise.
 
-<div style="text-align: center"><a href="https://en.unicorecomm.com/assets/upload/file/UPrecise%20V1.0.639.exe" class="md-button">Click Here to Download UPrecise V1.0.639 (EXE)</a></div>
+<div style="text-align: center"><a href="https://en.unicore.com/uploads/file/Tool/uprecise-v2-0.exe" class="md-button">Click Here to Download UPrecise V2.0 (EXE)</a></div>
 
 !!! note
-    For the latest software version, you may want to check the [UM980's product page or Unicore's Download Center](https://en.unicorecomm.com/products/detail/260).
+    For the latest software version, you may want to check the [UM980's product page or Unicore's Download Center](https://en.unicore.com/products/surveying-grade-gnss-um980/).
 
 Once downloaded, select the executable and follow the prompts to install the software to your computer. Note that the software is currently only supported on Windows 7/8/10, 64-bit OS.
 
@@ -47,4 +47,4 @@ We will assume that you have a triband multiband antenna connected to the UM980'
 
 Once connected, try exploring the features available on the software as the UM980 sends data to your COM port. You can also check out the UPrecise user manual for more information on the software:
 
-<div style="text-align: center"><a href="http://127.0.0.1:8000/SparkFun_UM980_Triband_GNSS_RTK_Breakout/assets/component_documentation/UPrecise_User_Manual_EN_R1_01.pdf" class="md-button">UPrecise User Manual R1.01 - English (PDF)</a></div>
+<div style="text-align: center"><a href="../assets/component_documentation/uprecise-user-manual-en-r2-0.pdf" class="md-button">UPrecise User Manual R2.0 - English (PDF)</a></div>
