@@ -4,7 +4,7 @@
 !!! note
     At the time of writing, UPrecise Version 2.0 was used. Note that the GUI appearance and features may change upon future releases.
 
-You can update your firmware (they call this a firmware upgrade in the manual) using Unicore's UPrecise software. Make sure to check [Unicore's UM980 product page](https://en.unicorecomm.com/products/detail/26), [download center](https://en.unicorecomm.com/download), or contact Unicore Communications for any firmware releases.
+You can update your firmware (they call this a firmware upgrade in the manual) using Unicore's UPrecise software. Make sure to check [Unicore's UM980 product page](https://en.unicorecomm.com/products/detail/26), [download center](https://en.unicore.com/download-center/), or contact Unicore Communications for any firmware releases.
 
 We'll assume that you have the firmware downloaded at this point and connected to the UM980. With UPrecise open, click on the menu with the triple bar (**&equiv;**) near the upper left of the window to expand the menu.
 
