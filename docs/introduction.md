@@ -516,13 +516,4 @@ You may also be interested in the following blog posts on GNSS technologies.
 
 	**Real-Time Kinematics Explained**</a>
 
--   <a href="https://www.sparkfun.com/news/7401">
-	<figure markdown>
-	![Tutorial Thumbnail](https://cdn.sparkfun.com/c/264-148/assets/home_page_posts/7/4/0/1/Screen_Shot_2023-06-26_at_8.30.22_PM.png)
-	</figure>
-
-	---
-
-	**New Video: Unlocking High-Precision RTK Positioning**</a>
-
 </div>

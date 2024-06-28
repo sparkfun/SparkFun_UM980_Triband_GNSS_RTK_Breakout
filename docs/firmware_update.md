@@ -88,7 +88,7 @@ When ready, hit the "Start" button!
 !!! note
     If you have issues updating the software with the reset method chosen, try exiting the Receiver Upgrade menu by hitting the "x" button. Then disconnect and reconnect the module by selecting the "Connect" button. You will then need to open the **Receiver Upgrade** window again before hitting the "Start" button.
 
-Once the firmware has been updated, you will notice that the progress bar is at 100% and a message indicating that the firmware upgrade is finished. You can exit out of the window by clicking on the "**x**" button.
+Once the firmware has been updated, you will notice that the progress bar is at 100% and a message indicating that the firmware upgrade succeeded and finished. You can exit out of the window by clicking on the "**x**" button.
 
 <div style="text-align: center;">
   <table>
@@ -100,7 +100,7 @@ Once the firmware has been updated, you will notice that the progress bar is at 
 
 Upon exiting, you can continue viewing the UM980 output through the UPrecise software.
 
-Not seeing any satellites or output in the serial terminal? Try adjusting the configuraiton. From the menu, head to the following to configure the messages: **Receiver Configurations** > **Message configuration**. In this case, we selected the following: **GGA**, **GSA**, **GSV**, **RMC**, **GST**. Feel free to select more depending on your application.
+Not seeing any satellites or output in the serial terminal? Try adjusting the configuration. From the menu, head to the following to configure the messages: **Receiver Configurations** > **Message configuration**. In this case, we selected the following: **GGA**, **GSA**, **GSV**, **RMC**, **GST**. Feel free to select more depending on your application.
 
 <div style="text-align: center;">
   <table>

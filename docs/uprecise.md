@@ -1,9 +1,9 @@
-For users interested in the a GUI to visualize the data, there is the UPrecise Software. You can head over to [Unicore's product page for the UM980 and select the "Data Manual" tab](https://en.unicorecomm.com/products/detail/26). Or clicking on the button below to download UPrecise.
+For users interested in a GUI to visualize the data or update firmware, there is the UPrecise Software. You can head over to [Unicore's UPrecise Download Page](https://en.unicore.com/products/uprecise.html). Or clicking on the button below to download UPrecise.
 
 <div style="text-align: center"><a href="https://en.unicore.com/uploads/file/Tool/uprecise-v2-0.exe" class="md-button">Click Here to Download UPrecise V2.0 (EXE)</a></div>
 
 !!! note
-    For the latest software version, you may want to check the [UM980's product page or Unicore's Download Center](https://en.unicore.com/products/surveying-grade-gnss-um980/).
+    For the latest software version, you may want to check the [Unicore's UPrecise Download Page](https://en.unicore.com/products/uprecise.html).
 
 Once downloaded, select the executable and follow the prompts to install the software to your computer. Note that the software is currently only supported on Windows 7/8/10, 64-bit OS.
 
