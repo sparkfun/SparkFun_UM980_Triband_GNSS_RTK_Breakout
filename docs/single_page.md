@@ -21,10 +21,13 @@ icon: fontawesome/solid/scroll
 --8<-- "./docs/arduino_examples.md"
 
 # Installing UPrecise
---8<-- "./docs/uprecise.md
+--8<-- "./docs/uprecise.md"
 
 # Firmware Update
---8<-- "./docs/firmware_update.md
+--8<-- "./docs/firmware_update.md"
+
+# Verification
+--8<-- "./docs/verification.md"
 
 # Troubleshooting
 --8<-- "./docs/troubleshooting.md"

@@ -97,37 +97,3 @@ Once the firmware has been updated, you will notice that the progress bar is at 
     </tr>
   </table>
 </div>
-
-Upon exiting, you can continue viewing the UM980 output through the UPrecise software.
-
-Not seeing any satellites or output in the serial terminal? Try adjusting the configuration. From the menu, head to the following to configure the messages: **Receiver Configurations** > **Message configuration**. In this case, we selected the following: **GGA**, **GSA**, **GSV**, **RMC**, **GST**. Feel free to select more depending on your application.
-
-<div style="text-align: center;">
-  <table>
-    <tr style="vertical-align:middle;">
-     <td style="text-align: center; vertical-align: middle;"><a href="../assets/img/UPrecise_Software_Receiver_Configurations.JPG"><img src="../assets/img/UPrecise_Software_Receiver_Configurations.JPG" width="600px" height="600px" alt="UPrecise Software: Receiver Configurations - Message configuration"></a></td>
-    </tr>
-  </table>
-</div>
-
-
-
-Scroll down **Receiver Configurations** window and select **Enter** button.
-
-<div style="text-align: center;">
-  <table>
-    <tr style="vertical-align:middle;">
-     <td style="text-align: center; vertical-align: middle;"><a href="../assets/img/UPrecise_Software_Receiver_Configurations_Send.JPG"><img src="../assets/img/UPrecise_Software_Receiver_Configurations_Send.JPG" width="600px" height="600px" alt="UPrecise Software: Receiver Configurations - Message configuration, Enter"></a></td>
-    </tr>
-  </table>
-</div>
-
-You should be able to see messages outputting through the serial terminal and displaying graphically.
-
-<div style="text-align: center;">
-  <table>
-    <tr style="vertical-align:middle;">
-     <td style="text-align: center; vertical-align: middle;"><a href="../assets/img/UPrecise_Software_UM980_Connected_Quality_Single_Point_Positioning.JPG"><img src="../assets/img/UPrecise_Software_UM980_Connected_Quality_Single_Point_Positioning.JPG" width="600px" height="600px" alt="UPrecise Software with UM980 Outputting Messages with Data Single Point Positioning"></a></td>
-    </tr>
-  </table>
-</div>

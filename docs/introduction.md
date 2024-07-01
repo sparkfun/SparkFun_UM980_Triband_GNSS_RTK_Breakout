@@ -42,7 +42,7 @@ To follow along with this tutorial, you will need the following materials. You m
 * 1x [GNSS Multi-Band L1/L2/L5 Surveying Antenna - TNC (SPK6618H) [GPS-21801]](https://www.sparkfun.com/products/21801)
 
 
-<div class="grid cards hide col-4" markdown>
+<div class="grid cards col-4" markdown>
 
 <!-- ----------WHITE SPACE BETWEEN PRODUCTS---------- -->
 -   <a href="https://www.sparkfun.com/products/19177">
@@ -141,7 +141,7 @@ Depending on your setup, you may need the following mounting hardware. Note that
 * [GNSS Antenna Mounting Hardware Kit [KIT-22197]](https://www.sparkfun.com/products/22197)
 * [GPS Antenna Ground Plate [GPS-17519]](https://www.sparkfun.com/products/17519)
 
-<div class="grid cards hide col-4" markdown>
+<div class="grid cards col-4" markdown>
 
 -   <a href="https://www.sparkfun.com/products/21257">
       <figure markdown>
@@ -197,7 +197,7 @@ For users that require radios to transmit RTK correction data, you could use the
 * [SiK Telemetry Radio V3 - 915MHz, 100mW [WRL-19032]](https://www.sparkfun.com/products/19032)
 * [SparkFun LoRaSerial Kit - 915MHz (Enclosed) [WRL-20029]](https://www.sparkfun.com/products/20029)
 
-<div class="grid cards hide col-4" markdown>
+<div class="grid cards col-4" markdown>
 
 -   <a href="https://www.sparkfun.com/products/19032">
       <figure markdown>
@@ -242,7 +242,7 @@ You will need a soldering iron, solder, and [general soldering accessories](http
 * [Hook-Up Wire - Assortment (Stranded, 22 AWG) [PRT-11375]](https://www.sparkfun.com/products/11375)
 * [Wire Stripper - 20-30 AWG Solid (22-32 AWG Stranded) [TOL-22263]](https://www.sparkfun.com/products/22263)
 
-<div class="grid cards hide col-4" markdown>
+<div class="grid cards col-4" markdown>
 
 -   <a href="https://www.sparkfun.com/products/14456">
       <figure markdown>
@@ -329,7 +329,7 @@ As listed earlier, we recommend using the 4-pin JST-GHR-04V cable to connect dir
 * [Female Headers [PRT-00115]](https://www.sparkfun.com/products/115)
 * [Jumper Wires Premium 6" M/M Pack of 10 [PRT-08431]](https://www.sparkfun.com/products/8431)
 
-<div class="grid cards hide col-4" markdown>
+<div class="grid cards col-4" markdown>
 <!-- ----------WHITE SPACE BETWEEN PRODUCTS---------- -->
 -   <a href="https://www.sparkfun.com/products/12002">
       <figure markdown>
@@ -409,7 +409,7 @@ As listed earlier, we recommend using the 4-pin JST-GHR-04V cable to connect dir
 
 If you aren’t familiar with the following concepts, we also recommend checking out a few of these tutorials before continuing.
 
-<div class="grid cards hide col-4" markdown>
+<div class="grid cards col-4" markdown>
 <!-- ----------WHITE SPACE BETWEEN GRID CARDS---------- -->
 -   <a href="https://learn.sparkfun.com/tutorials/9">
       <figure markdown>

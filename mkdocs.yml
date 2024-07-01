@@ -243,6 +243,7 @@ nav:
     - Arduino Examples: arduino_examples.md
     - Installing UPrecise: uprecise.md
     - Firmware Update: firmware_update.md
+    - Verification: verification.md
   - Resources: resources.md
   - Support:
     - Troubleshooting: troubleshooting.md
