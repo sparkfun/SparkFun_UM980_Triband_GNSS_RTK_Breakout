@@ -41,7 +41,7 @@ Documentation
 * **[Installing an Arduino Library Guide](https://learn.sparkfun.com/tutorials/installing-an-arduino-library)** - Basic information on how to install an Arduino library.
 * **[Library](https://github.com/sparkfun/SparkFun_Unicore_GNSS_Arduino_Library/)** - Unicore GNSS Arduino Library
 * **[Hookup Guide](https://docs.sparkfun.com/SparkFun_UM980_Triband_GNSS_RTK_Breakout/)** - Hookup guide for the SparkFun Triband GNSS RTK Breakout - UM980.
-* **[https://docs.sparkfun.com/Update_Firmware_Unicore_GNSS_Receiver/](https://docs.sparkfun.com/Update_Firmware_Unicore_GNSS_Receiver/introduction/)** - Tutorial on how to update firmware on a Unicore GNSS Receiver. This is a general tutorial that covers the RTK Torch and UM980 breakout. Note that this information also included in the SparkFun Triband GNSS RTK Breakout - UM980 Hookup Guide.
+* **[How to Update Firmware on a Unicore GNSS Receiver](https://docs.sparkfun.com/Update_Firmware_Unicore_GNSS_Receiver/introduction/)** - Tutorial on how to update firmware on a Unicore GNSS Receiver. This is a general tutorial that covers the RTK Torch and UM980 breakout. Note that this information also included in the SparkFun Triband GNSS RTK Breakout - UM980 Hookup Guide.
 
 
 
