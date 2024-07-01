@@ -5,29 +5,45 @@ SparkFun Triband GNSS RTK Breakout - UM980
 
 [*SparkFun Triband GNSS RTK Breakout - UM980 (GPS-23286)*](https://www.sparkfun.com/products/23286)
 
-<!--
-OLD DESCRIPTION, needs update for the UM980...
+The SparkFun Triband GNSS RTK Breakout features the UM980 GNSS high precision RTK position module from Unicore Communications. The UM980 is a 1408-Channel GNSS Receiver based on the Nebulas IV™ that is able to simultaneously track GPS L1/L2/L5, GLONASS L1/L2, Galileo E1/E5a/E5b/E6, Beidou B1I/B2I/B3I/B1C/B2a/B2b, QZSS L1/L2/L5, and SBAS. With this board, you will be able to know where your (or any object's) X, Y, and Z location is within roughly the width of your fingernail. When an RTK solution is reached, the module can achieve a horizontal accuracy of about 8mm (~0.3 inches) and vertical accuracy of 15mm (~0.59 inches). The UM980 is capable of both rover and base station operations.
 
-The ZED-F9P module is the top-of-the-line module for high accuracy GNSS and GPS location solutions including RTK. The ZED-F9P is unique in that it can receive both L1 and L2 GPS bands as well as up to four constellations (GPS, GLONASS, BeiDou, Galileo) at the same time. This module is capable of 10mm positional accuracy and has survey-in mode allowing the module to become a base station and produce RTCM 3.x correction data. 
+We've included a rechargeable backup battery to keep the latest module configuration and satellite data available. This battery helps 'warm-start' the module, decreasing the time-to-first-fix dramatically. This module features a survey-in mode, allowing the module to become a base station and produce RTCM 3.x correction data. A SMA connector is included for a secure connection to a Triband GNSS antenna.
 
-**Words, words, words. What does it look like?!** I'm glad you asked!
+Currently, serial UART is only supported on the UM980 module. All three serial UART ports have been broken out to the USB-C connector via CH340, 4-pin locking JST connector, and BlueSMiRF header. Unique pins have also been broken out to the edge of the board. Various jumpers are also included to configure power and LEDs.
 
-[![SparkFun GPS-RTK2 - ZED-F9P](https://cdn.sparkfun.com/assets/learn_tutorials/8/5/6/17mm_Accuracy.jpg)](https://www.sparkfun.com/products/16481)
 
-With *33* satellites used in the location solution. -->
 
 Repository Contents
 -------------------
 
+* **.github/workflows** - YAML files used for GitHub Actions and GitHub Pages/mkdocs
+* **/Firmware** - UM980 Firmware packages
 * **/Documents** - Datasheets and various documents related to the UM980
 * **/Hardware** - Eagle files
+* **/Software** - Related software for the UM980
+* **/docs** - Online documentation files
+  * **/assets** - Folder containing all the file assets used for product documentation
+    * **/board_files** - Copy of design files used for product documentation
+    * **/component_documentation** - Datasheets and manuals for hardware components
+    * **/img** - Images for product documentation
+  * **/github** - Files stating how to contribute and filing issues used for product documentation
+  * **/javascript** - Folder containing custom javascript used for product documentation
+  * **/stylesheet** - Folder containing CSS files used for product documentation
+* **/overrides** - Customization files used for product documentation
+  * **/.icons** - Icons used for GitHub used for product documentation
+  * **./partials** - Used for product documentation
+
+
 
 Documentation
 --------------
 
 * **[Installing an Arduino Library Guide](https://learn.sparkfun.com/tutorials/installing-an-arduino-library)** - Basic information on how to install an Arduino library.
-* **[Library](https://github.com/sparkfun/SparkFun_Unicore_GNSS_Arduino_Library/)** - Arduino Library
+* **[Library](https://github.com/sparkfun/SparkFun_Unicore_GNSS_Arduino_Library/)** - Unicore GNSS Arduino Library
 * **[Hookup Guide](https://docs.sparkfun.com/SparkFun_UM980_Triband_GNSS_RTK_Breakout/)** - Hookup guide for the SparkFun Triband GNSS RTK Breakout - UM980.
+* **[https://docs.sparkfun.com/Update_Firmware_Unicore_GNSS_Receiver/](https://docs.sparkfun.com/Update_Firmware_Unicore_GNSS_Receiver/introduction/)** - Tutorial on how to update firmware on a Unicore GNSS Receiver. This is a general tutorial that covers the RTK Torch and UM980 breakout. Note that this information also included in the SparkFun Triband GNSS RTK Breakout - UM980 Hookup Guide.
+
+
 
 License Information
 -------------------
