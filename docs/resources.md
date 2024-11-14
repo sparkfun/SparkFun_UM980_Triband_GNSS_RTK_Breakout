@@ -3,8 +3,8 @@ Now that you've successfully got your SparkFun TriBand GNSS RTK- Breakout - UM98
 * [Schematic (PDF)](../assets/board_files/SparkFun_GNSS_UM980_Schematic_v11.pdf)
 * [KiCad Files (ZIP)](../assets/board_files/SparkFun_GNSS_UM980_v11.zip)
 * 3D model
-    * [STEP File](../assets/3d_model/SparkFun_GNSS_UM980_3D_model.step)
-    * [STL File](../assets/3d_model/SparkFun_GNSS_UM980_3D_model.stl)
+    * [STEP](../assets/3d_model/SparkFun_GNSS_UM980_3D_model.step)
+    * [STL](../assets/3d_model/SparkFun_GNSS_UM980_3D_model.stl)
 * [Board Dimensions (PNG)](../assets/img/SparkFun_GNSS_UM980-User_Drawings.png)
 * Unicore Communications UM980
     * [General Specifications (PDF)](../assets/component_documentation/RX UNICORE UM980 (04-23).pdf)
