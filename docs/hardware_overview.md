@@ -262,6 +262,28 @@ There are a few jumper pads available on the bottom of the board.
 
 
 
+### 3D Model
+
+3D models of the board and components were exported to STEP and STL files using KiCad.
+
+<!-- Import the component -->
+<script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.5.0/model-viewer.min.js"></script>
+
+<div style="text-align: center;">
+    <model-viewer src="../assets/3d_model/SparkFun_GNSS_UM980_3D_model.glb" camera-controls poster="../assets/3d_model/SparkFun_GNSS_UM980_3D_image.png" environment-image="legacy" shadow-intensity="1.58" exposure="0.64" shadow-softness="0.24" tone-mapping="neutral" camera-orbit="-46.67deg 57.14deg 153.3m" field-of-view="30deg" style="width: 750px; height: 500px;">
+    </model-viewer>
+</div>
+<br />
+<div style="text-align: center">
+    <a href="../assets/3d_model/SparkFun_GNSS_UM980_3D_model.step" target="stp_file" class="md-button">Click Here for the STEP File</a>
+</div>
+<br />
+<div style="text-align: center">
+    <a href="../assets/3d_model/SparkFun_GNSS_UM980_3D_model.stl" target="stl_file" class="md-button">Click Here for the STL File</a>
+</div>
+
+
+
 ###Board Dimensions
 
 The board is 2.0" x 2.0" (50.8mm x 50.8mm). There are 4x mounting holes by each corner of the board.
