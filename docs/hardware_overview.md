@@ -264,7 +264,7 @@ There are a few jumper pads available on the bottom of the board.
 
 ### 3D Model
 
-3D models of the board and components were exported to STEP and STL files using KiCad.
+A 3D model of the board and components were exported to a STEP file using KiCad.
 
 <!-- Import the component -->
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.5.0/model-viewer.min.js"></script>
@@ -276,10 +276,6 @@ There are a few jumper pads available on the bottom of the board.
 <br />
 <div style="text-align: center">
     <a href="../assets/3d_model/SparkFun_GNSS_UM980_3D_model.step" target="stp_file" class="md-button">Click Here for the STEP File</a>
-</div>
-<br />
-<div style="text-align: center">
-    <a href="../assets/3d_model/SparkFun_GNSS_UM980_3D_model.stl" target="stl_file" class="md-button">Click Here for the STL File</a>
 </div>
 
 
