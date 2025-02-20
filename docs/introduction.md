@@ -117,7 +117,7 @@ To follow along with this tutorial, you will need the following materials. You m
 <!-- ----------WHITE SPACE BETWEEN PRODUCTS---------- -->
 -   <a href="https://www.sparkfun.com/products/21801">
       <figure markdown>
-        <img src="https://cdn.sparkfun.com//assets/parts/2/1/5/9/7/SparkFun_GNSS_SPK6618H_Triband_Antenna_-_2.jpg" style="width:140px; height:140px; object-fit:contain;" alt="GNSS Multi-Band L1/L2/L5 Surveying Antenna - TNC (SPK6618H)">
+        <img src="https://cdn.sparkfun.com/assets/parts/2/1/5/9/7/SparkFun_GNSS_SPK6618H_Triband_Antenna_-_2-1.png" style="width:140px; height:140px; object-fit:contain;" alt="GNSS Multi-Band L1/L2/L5 Surveying Antenna - TNC (SPK6618H)">
       </figure>
     </a>
 
